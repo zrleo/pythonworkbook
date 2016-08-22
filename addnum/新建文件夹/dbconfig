@@ -1,0 +1,11 @@
+#-*- coding:utf-8 -*-
+"""
+数据库配置文件
+"""
+
+DBHOST = '127.0.0.1'
+DBPORT = '3306'
+DBUSER = 'root'
+DBPWD = '123456'
+DBNAME = 'coder'
+DBCHAR = 'utf8'
